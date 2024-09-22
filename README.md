@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Andrey Oskin
+# 👋 Hi there! I'm rreshrr
 
 **Java Backend Developer** with experience in developing and maintaining complex systems, integrating with external APIs, and optimizing team processes. I enjoy solving challenging problems and building reliable systems.
 
